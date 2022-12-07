@@ -12,6 +12,14 @@ https://github.com/gitdagray/tailwind-css-course
 
 https://tailwindcss.com/docs/installation
 
+## Arbitrary values
+
+https://tailwindcss.com/docs/adding-custom-styles#using-arbitrary-values
+
+## EmojiPedia
+
+https://emojipedia.org/
+
 ## Command to install packages
 
 npm install
